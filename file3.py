@@ -2,4 +2,6 @@ print("Hello!It's file3")
 print("Patch test A")
 print("Patch test B")
 print("Patch test C")
-
+print("Patch test D")
+print("Patch test E")
+print("Patch test F")
